@@ -1,0 +1,38 @@
+header{
+    margin:0 auto;
+    padding-top: 40.89px;
+    padding-left: 69px;
+    padding-bottom: 100.26px;
+    
+}
+
+.logo{
+    margin-right: 312px;
+   
+}
+
+nav{
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+    font-size:32px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+.active{
+   color: #FA1A35; 
+
+}
+.noactive1{
+    margin-left: 83px;
+}
+.noactive2{
+    margin-left: 83px;
+}
+.noactive3{
+    margin-left: 83px;
+    margin-right: 117px;
+}
