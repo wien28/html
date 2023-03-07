@@ -1,6 +1,6 @@
 /* header */
 header {
-    
+
     margin: 0 auto;
     width: 1440px;
     padding: 40.89px 0 100px 69px;
@@ -9,7 +9,7 @@ header {
 
 .logo {
     margin-right: 312px;
-vertical-align: middle;
+    vertical-align: middle;
 }
 
 nav {
@@ -126,8 +126,24 @@ article {
 /* footer */
 footer {
     background-color: #1F6519;
-    width: 1440px;
     margin: 0 auto;
-    padding: 74px 0 73px 109px;
+    padding: 74px 118px 73px 109px;
+    width: 1440px;
 
+
+}
+
+.iluminated_logo {
+    margin-right: 617px;
+    vertical-align: middle;
+
+}
+
+.iluminated_text {
+    font-family: 'Nerko One', cursive;
+    font-size: 24px;
+    color: #FFFFFF;
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 29.06px;
 }
