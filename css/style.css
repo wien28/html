@@ -1,15 +1,15 @@
 /* header */
 header {
+    
     margin: 0 auto;
-    padding-top: 40.89px;
-    padding-left: 69px;
-    padding-bottom: 100.26px;
+    width: 1440px;
+    padding: 40.89px 0 100px 69px;
 
 }
 
 .logo {
     margin-right: 312px;
-
+vertical-align: middle;
 }
 
 nav {
@@ -17,6 +17,7 @@ nav {
 }
 
 li {
+    font-family: 'Nerko One';
     display: inline-block;
     font-size: 32px;
     font-style: normal;
@@ -46,16 +47,17 @@ li {
 section {
     background-color: #1F6519;
     height: 823px;
-    
+
 }
-.img{
+
+.img {
     padding-top: 110px;
     padding-left: 69px;
     padding-bottom: 154px;
-    
+
 }
 
-div{
+div {
     vertical-align: top;
     display: inline-block;
     margin-top: 110px;
@@ -70,12 +72,13 @@ div{
     color: #FFFFFF;
     margin-left: 210px;
     margin-bottom: 35px;
-   
-    
+
+
 
 }
 
 .text {
+    font-family: 'PT Serif', serif;
     color: #FFFFFF;
     Line-height: 42.4px;
     font-weight: 400;
@@ -85,32 +88,46 @@ div{
     margin-left: 96px;
     font-family: 'PT Serif';
     font-size: 32px;
-    
+
 }
+
 /* article */
-article{
+article {
+    width: 1440px;
     margin: 0 auto;
+    padding-top: 92px;
+    padding-right: 216px;
+    padding-bottom: 137px;
+    padding-left: 207px;
 }
-.article_title{
+
+.article_title {
+    font-family: 'PT Serif', serif;
     color: #0F5009;
+    margin-bottom: 92px;
+    text-align: center;
+    font-weight: 400;
     font-style: italic;
     font-size: 40px;
     line-height: 53px;
-    font-weight: 400;
-    padding-left: 589px;
-    padding-right: 589px;
-    padding-top: 92px;
 }
-.article_text{
- margin-top: 92px;
-margin-left: 207px;
-margin-right: 216px;
-margin-bottom: 137px;
-width:1017px;
-height: 268px;
-font-weight: 400;
-font-style: italic;
-font-size: 36px;
-line-height: 42px;
-color: #1F6519;
+
+.article_text {
+    color: #1F6519;
+    font-family: 'PT Serif';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    text-align: center;
+
+}
+
+/* footer */
+footer {
+    background-color: #1F6519;
+    width: 1440px;
+    margin: 0 auto;
+    padding: 74px 0 73px 109px;
+
 }
