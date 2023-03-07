@@ -87,3 +87,30 @@ div{
     font-size: 32px;
     
 }
+/* article */
+article{
+    margin: 0 auto;
+}
+.article_title{
+    color: #0F5009;
+    font-style: italic;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 400;
+    padding-left: 589px;
+    padding-right: 589px;
+    padding-top: 92px;
+}
+.article_text{
+ margin-top: 92px;
+margin-left: 207px;
+margin-right: 216px;
+margin-bottom: 137px;
+width:1017px;
+height: 268px;
+font-weight: 400;
+font-style: italic;
+font-size: 36px;
+line-height: 42px;
+color: #1F6519;
+}
